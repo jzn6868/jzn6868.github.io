@@ -441,7 +441,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_JIANGZENAN.pdf", "_blank");
+          window.open("zenan.jiang@outlook.com", "_blank");
         },
       },{
       id: 'light-theme',
