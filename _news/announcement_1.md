@@ -1,10 +1,15 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2025-01-25 15:59:00-0400
+inline: false
 related_posts: false
+title: I just landed in Hong Kong today.
 
 ---
 
-I just landed in Hong Kong today.
+Big day!
+
 ---
+
+Hong Kong at last—so excited.
+<img src="assets/img/newsimg/2025-02-25/IMG_7021.jpeg" alt="Alt text" width="300">
