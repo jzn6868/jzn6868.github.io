@@ -3,7 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href="https://www.cityu.edu.hk/bms/">Affiliations</a>.
+  <a href="https://www.cityu.edu.hk/bms/">BMS, CityUHK</a>.
+  <a href="https://biology.nwu.edu.cn/">CLS, NWU</a>.
 
 profile:
   align: right
