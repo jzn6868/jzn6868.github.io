@@ -16,3 +16,12 @@ custom_social: # can be any name here other than the ones already defined above
     logo: https://www.clipartmax.com/png/small/316-3160554_cv-png-curriculum-vitae-logo-png.png
     title: CV
     url: /assets/pdf/CV_JIANGZENAN.pdf
+
+custom_social: # can be any name here other than the ones already defined above
+  # logo can be a link to an image (png, jpg, svg)
+  # or an Academicons class like "ai ai-acm"
+  # or a FontAwesome class like "fa-brands fa-square-letterboxd"
+  # or a Scholar Icons class like "si si-leetcode"
+    logo: https://www.clipartmax.com/png/small/316-3160554_cv-png-curriculum-vitae-logo-png.png
+    title: CV
+    url: /assets/pdf/CV_JIANGZENAN.pdf
