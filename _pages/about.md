@@ -2,16 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.cityu.edu.hk/bms/'>Affiliations</a>. 
+<p>Room B2136, 2/F, Yeung Kin Man Academic Building, </p>
+<p>CityUHKCity University of Hong Kong, </p>
+<p>Tat Chee Avenue, Kowloon, Hong Kong SAR. </p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ROOM NO.317</p>
-    <p>	North side, The College of Life Sciences</p>
-    <p>Xi'an, Shannxi</p>
+    <p></p>
+    <p>	</p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,5 +30,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming PhD in Prof. Yan Jian Lab at CityUHK. I study how human transcription factors shape DNA-binding specificity under epigenomic regulation. My
-research focuses on high-throughput SELEX and ChIP-based approaches to dissect how chromatin states modulate transcription factor binding specificity.
+I am an incoming PhD student at City University of Hong Kong (CityUHK) in the Department of Biomedical Sciences (BMS), where I will join Prof. Jian Yan’s laboratory. I am currently a third-year Master’s student at Northwest University, and I expect to graduate in June 2026.
+
+My research investigates how human transcription factors shape DNA-binding specificity under epigenomic regulation. I study how chromatin context influences transcription factor binding behavior and regulatory precision. My work focuses on high-throughput SELEX and ChIP-based approaches to dissect how chromatin states modulate transcription factor binding specificity.
+
+Beyond the laboratory, I enjoy producing hip-hop beats, running, hiking, and photography. These creative and physical pursuits help me maintain balance and inspiration in scientific research.
