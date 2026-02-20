@@ -6,5 +6,5 @@ related_posts: false
 
 ---
 
-I just landed in Hong Kong today.
+I just arrived in Hong Kong tonight. The night view is incredibly beautiful!
 ---
