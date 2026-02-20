@@ -12,4 +12,4 @@ Big day!
 ---
 
 Hong Kong at last—so excited.
-<img src="assets/img/newsimg/2025-02-25/IMG_7021.jpeg" alt="Alt text" width="300">
+<img src="{{ 'assets/img/newsimg/2025-02-25/IMG_7021.jpeg' | relative_url }}" alt="news image" width="420">
