@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cityu.edu.hk/bms/'>Affiliations</a>. 
-<p>Room B2136, 2/F, Yeung Kin Man Academic Building, </p>
-<p>CityUHKCity University of Hong Kong, </p>
-<p>Tat Chee Avenue, Kowloon, Hong Kong SAR. </p>
-
+subtitle: >
+  <a href="https://www.cityu.edu.hk/bms/">Affiliations</a>.
+  <p>Room B2136, 2/F, Yeung Kin Man Academic Building</p>
+  <p>City University of Hong Kong</p>
+  <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
 profile:
   align: right
   image: prof_pic.jpg
