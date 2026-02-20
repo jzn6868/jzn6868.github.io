@@ -451,27 +451,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/CV_JIANGZENAN.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%7A%65%6E%61%6E.%6A%69%61%6E%67@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=cvfrW8AAAAAJ&hl# your Google Scholar ID", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
