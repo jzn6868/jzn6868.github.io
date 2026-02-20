@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jzn6868.github.io/jzn6868.github.io//sitemap.xml
