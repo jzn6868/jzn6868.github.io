@@ -441,7 +441,35 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("zenan.jiang@outlook.com", "_blank");
+          window.open("mailto:zenan.jiang@outlook.com", "_blank");
+        },
+      },{
+        id: 'social-custom_cv',
+        title: 'Custom_cv',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/CV_JIANGZENAN.pdf", "_blank");
+        },
+      },{
+        id: 'social-custom_scholar',
+        title: 'Custom_scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=cvfrW8AAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_email',
+        title: 'Custom_email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:zenan.jiang@outlook.com", "_blank");
+        },
+      },{
+        id: 'social-custom_instagram',
+        title: 'Custom_instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.instagram.com/royalboybrazy/", "_blank");
         },
       },{
       id: 'light-theme',
