@@ -8,11 +8,19 @@
 #scholar_userid: cvfrW8AAAAAJ&hl# your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined above
-  # logo can be a link to an image (png, jpg, svg)
-  # or an Academicons class like "ai ai-acm"
-  # or a FontAwesome class like "fa-brands fa-square-letterboxd"
-  # or a Scholar Icons class like "si si-leetcode"
-    logo: https://www.freeiconspng.com/img/102
+custom_social:
+  - icon: fas fa-file-pdf
     title: CV
     url: /assets/pdf/CV_JIANGZENAN.pdf
+
+  - icon: ai ai-google-scholar
+    title: Google Scholar
+    url: https://scholar.google.com/citations?user=cvfrW8AAAAAJ
+
+  - icon: fas fa-envelope
+    title: Email
+    url: "mailto:zenan.jiang@outlook.com"
+
+  - icon: fab fa-instagram
+    title: Instagram
+    url: https://www.instagram.com/royalboybrazy/
