@@ -458,13 +458,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=cvfrW8AAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_email',
-        title: 'Custom_email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:zenan.jiang@outlook.com", "_blank");
-        },
-      },{
         id: 'social-custom_instagram',
         title: 'Custom_instagram',
         section: 'Socials',
