@@ -188,3 +188,17 @@
     color: var(--global-hover-color);
   }
 }
+
+.navbar.navbar-light {
+  // 让折叠菜单区域占满宽度，并把菜单项居中
+  .navbar-collapse {
+    justify-content: center;
+  }
+
+  // 菜单列表本身居中（Bootstrap 默认是靠左）
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+}
