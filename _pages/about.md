@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
- <a href='https://www.cityu.edu.hk/bms/'>Affiliations</a>.
+  <a href="https://www.cityu.edu.hk/bms/">Affiliations</a>.
 
 profile:
   align: right
