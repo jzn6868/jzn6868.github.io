@@ -8,7 +8,7 @@
 #scholar_userid: cvfrW8AAAAAJ&hl# your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social:
-    icon: fas fa-file-pdf
-    title: CV
-    url: /assets/pdf/CV_JIANGZENAN.pdf
+custom_social: # can be any name here other than the ones already defined above
+  logo: https://freepngimg.com/download/temp_webp/66591-google-contacts-by-inbox-logo-icon-email.webp
+  title: CV
+  url: /assets/pdf/CV_JIANGZENAN.pdf
