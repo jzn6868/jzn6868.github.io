@@ -9,18 +9,6 @@
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social:
-  - icon: fas fa-file-pdf
+    icon: fas fa-file-pdf
     title: CV
     url: /assets/pdf/CV_JIANGZENAN.pdf
-
-  - icon: ai ai-google-scholar
-    title: Google Scholar
-    url: https://scholar.google.com/citations?user=cvfrW8AAAAAJ
-
-  - icon: fas fa-envelope
-    title: Email
-    url: "mailto:zenan.jiang@outlook.com"
-
-  - icon: fab fa-instagram
-    title: Instagram
-    url: https://www.instagram.com/royalboybrazy/
