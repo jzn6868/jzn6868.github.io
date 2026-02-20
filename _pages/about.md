@@ -29,6 +29,6 @@ latest_posts:
 
 I am an incoming PhD student at City University of Hong Kong (CityUHK) in the Department of Biomedical Sciences (BMS), where I will join Prof. Jian Yan’s laboratory. I am currently a third-year Master’s student at Northwest University, and I expect to graduate in June 2026.
 
-My research investigates how human transcription factors shape DNA-binding specificity under epigenomic regulation. I study how chromatin context influences transcription factor binding behavior and regulatory precision. My work focuses on high-throughput SELEX and ChIP-based approaches to dissect how chromatin states modulate transcription factor binding specificity.
+I study how human transcription factors shape DNA-binding specificity under epigenomic regulation. My research focuses on high-throughput SELEX and ChIP-based approaches to dissect how chromatin states modulate transcription factor binding specificity.
 
 Beyond the laboratory, I enjoy producing hip-hop beats, running, hiking, and photography. These creative and physical pursuits help me maintain balance and inspiration in scientific research.
