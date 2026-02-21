@@ -34,15 +34,22 @@ I study how human transcription factors shape DNA-binding specificity under epig
 
 Beyond the laboratory, I enjoy producing hip-hop beats, running, hiking, and photography. These creative and physical pursuits help me maintain balance and inspiration in scientific research.
 
-<h2>🎵 Daily Beat Studio Session</h2>
+<div style="height: 1.25rem;"></div>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe 
-    src="https://www.youtube.com/embed/FLIZY1cbnBU?si=LCVj-dMAjAjlZ7yq"
-    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<h2>Daily Beat Studio Session</h2>
+
+<div style="height: 1.25rem;"></div>
+
+<blockquote class="instagram-media"
+  data-instgrm-permalink="https://www.instagram.com/p/CwPw81GJAMG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  data-instgrm-version="14"
+  style="background:#fff; border:0; margin: 0 auto; max-width:540px; width:100%; border-radius:12px;">
+</blockquote>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+<div style="height: 1.25rem;"></div>
+
+
 
 
