@@ -33,3 +33,16 @@ I am an incoming PhD student at City University of Hong Kong (CityUHK) in the De
 I study how human transcription factors shape DNA-binding specificity under epigenomic regulation. My research focuses on high-throughput SELEX and ChIP-based approaches to dissect how chromatin states modulate transcription factor binding specificity.
 
 Beyond the laboratory, I enjoy producing hip-hop beats, running, hiking, and photography. These creative and physical pursuits help me maintain balance and inspiration in scientific research.
+
+<h2>🎵 Daily Beat Studio Session</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/FLIZY1cbnBU?si=LCVj-dMAjAjlZ7yq"
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius:12px;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
